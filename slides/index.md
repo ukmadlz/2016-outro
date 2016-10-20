@@ -1,4 +1,2 @@
 
-# Welcome to Hackference
-
-
+# Thanks for coming to Hackference
